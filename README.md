@@ -1,5 +1,3 @@
-# HW5_emoji_sentiment_analysis
-
 ### HW5 Emoji_sentimentAnalysis
 
 - 題目詳細說明請參考 HW5_emoji_sentiment_analysis.ipynb
